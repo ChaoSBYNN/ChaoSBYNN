@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Focusing on Java
 - 🔭 I’m currently working on Leedarson
 - 🌱 I’m currently learning ML
-- 📫 How to reach me: 
+- 📫 How to reach me: https://chaosbynn.github.io/
