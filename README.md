@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ML
 - 📫 How to reach me: https://chaosbynn.github.io/
 
-<img height="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoSBYNN&hide_title=true&hide_border=true&layout=compact&hide=plsql,html,css&langs_count=6&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img height="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoSBYNN&hide_title=true&hide_border=true&layout=compact&hide=plsql,html,css&langs_count=12&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
