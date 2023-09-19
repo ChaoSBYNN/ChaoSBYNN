@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<br/>
 ### Hello World 👋
 
 - ⚡ Focusing on Java
 - 🔭 I’m currently working on Leedarson
 - 🌱 I’m currently learning ML
 - 📫 How to reach me: https://chaosbynn.github.io/
-</div>
