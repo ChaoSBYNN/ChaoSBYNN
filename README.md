@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ChaoSBYNN&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<p/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoSBYNN&hide_title=true&hide_border=true&layout=compact&hide=plsql,html,css&langs_count=12&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hello World 👋
