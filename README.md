@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - ⚡ Focusing on Java and ...
-- 🔭 I’m currently working on Nothing
+- 🔭 I’m currently working IoT
 - 🌱 I’m be interested in 42
 - 📫 How to reach me: https://chaosbynn.github.io 
 
