@@ -1,6 +1,6 @@
-<!-- ![Header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Hey!%20I%20am%20Entropy&fontColor=ffffff&fontSize=50&fontAlign=70&descAlignY=65&desc=Developer&descAlign=80&color=0:9400D3,100:87CEFF) -->
+![Header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Hey!%20I%20am%20Entropy&fontColor=ffffff&fontSize=50&fontAlign=70&descAlignY=65&desc=Developer&descAlign=80&color=0:9400D3,100:87CEFF)
 
-![Header](./github-header.svg)
+<!-- ![Header](./github-header.svg) -->
 <!-- ![Header](./github-header.png) -->
 
 ### Hello World 👋
