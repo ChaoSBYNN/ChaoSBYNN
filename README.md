@@ -12,12 +12,10 @@
 
 ![Alt](https://repobeats.axiom.co/api/embed/d0d40dec9476cf8e0513abb988a841b56daf188e.svg "Repobeats analytics image")
 
-<!--
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChaoSBYNN&show_icons=true&hide_title=true" />
 <img align="rigit" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoSBYNN&show_icons=true&layout=compact&hide=plsql,html,css&langs_count=6" />
 </div>
--->
 
 <!--
 **ChaoSBYNN/ChaoSBYNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
