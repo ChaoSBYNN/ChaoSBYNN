@@ -10,14 +10,6 @@
 - 🌱 I’m be interested in 42
 - 📫 How to reach me: https://chaosbynn.github.io 
 
-![Alt](https://repobeats.axiom.co/api/embed/d0d40dec9476cf8e0513abb988a841b56daf188e.svg "Repobeats analytics image")
-
-<div>
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChaoSBYNN&show_icons=true&hide_title=true" /> -->
-<!-- <img align="rigit" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoSBYNN&show_icons=true&layout=compact&hide=plsql,html,css&langs_count=6" /> -->
-<img src="https://green-wall.leoku.dev/api/og/share/ChaoSBYNN" alt="My contributions"/>
-</div>
-
 <!--
 **ChaoSBYNN/ChaoSBYNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,5 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](./2025.png)
