@@ -3,6 +3,14 @@
 <!-- ![Header](./github-header.svg) -->
 <!-- ![Header](./github-header.png) -->
 
+![Static Badge](https://img.shields.io/badge/github-Entropy-blue?logo=github)
+![Static Badge](https://img.shields.io/badge/java-c90f13)
+![Static Badge](https://img.shields.io/badge/spring-green)
+![Static Badge](https://img.shields.io/badge/mysql-blue)
+![Static Badge](https://img.shields.io/badge/redis-D2042D)
+![Static Badge](https://img.shields.io/badge/mongodb-00684a)
+![Static Badge](https://img.shields.io/badge/rabbitmq-orange)
+
 ### Hello World 👋
 
 - ⚡ Focusing on Java and ...
